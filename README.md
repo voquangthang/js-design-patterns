@@ -1,6 +1,6 @@
 # JavaScript Design Patterns
 
-Repository này tổng hợp 5 mẫu thiết kế tiêu biểu trong JavaScript:
+5 design pattern tiêu biểu hay áp dụng trong Java hoặc JavaScript:
 
 | Pattern    | Thư mục      | Mục tiêu chính |
 |------------|--------------|----------------|
@@ -10,14 +10,3 @@ Repository này tổng hợp 5 mẫu thiết kế tiêu biểu trong JavaScript:
 | Module     | /module       | Đóng gói phạm vi |
 | Strategy   | /strategy     | Hoán đổi thuật toán runtime |
 
-## Hướng dẫn chạy
-
-```bash
-node <folder>/<filename>.js
-```
-
-Ví dụ:
-
-```bash
-node singleton/singleton.js
-```
